@@ -1,0 +1,11 @@
+.app{
+    display: flex;
+    background-color: white;
+    flex-direction: column;
+    align-items: center;
+    font : Poppins;
+    
+}
+.app__body{
+    display: flex;
+}
